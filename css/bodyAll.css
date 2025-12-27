@@ -1,0 +1,27 @@
+:root{
+
+    --textColor: #7640a3;
+
+}
+
+body{
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    margin-top: 8%;
+
+    background-color: #7640a3;
+
+    gap: 2rem;
+
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+footer{
+
+    font-weight: 600;
+
+}

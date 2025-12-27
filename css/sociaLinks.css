@@ -1,0 +1,22 @@
+#social-links{
+
+    display: flex;
+    gap: 10px;
+
+    
+    
+}
+
+.linkSocial{
+    font-size: 2rem;
+
+    text-decoration: none;
+
+    transition: 1.2s;
+    display: inline-block;
+
+    color: var(--textColor);
+
+    &:hover{ transform: scale(1.3);}
+
+}
